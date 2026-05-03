@@ -1,10 +1,9 @@
-
 module.exports = {
-  SESSION_ID: "",  // add session Id here
+  SESSION_ID: "",  // add session Id here after pairing
   
-  OWNER_NUMBER: "92 370 2519846", // add owner number 
+  OWNER_NUMBER: "923702519846", // your owner number
   
   PREFIX: ".", // prefix (e.g., ., /, !, *)
   
-  TIMEZONE: "Asia/Karachi" // put your country timeZone....leave blank if u don't know.
+  TIMEZONE: "Asia/Karachi" // put your country timeZone
 };
